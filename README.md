@@ -2,7 +2,7 @@
 
 author:   Alexander Botzki, Bruna Piereck
 email:    training@vib.de
-version:  1.0.0
+version:  2.2.0
 language: en
 narrator: UK English Female
 
@@ -49,54 +49,6 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 # Introduction to Generative AI
 
-```json   @JSONLD
-{
-  "@context": "https://schema.org/",
-  "@type": "LearningResource",
-  "@id": "https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/",
-  "http://purl.org/dc/terms/conformsTo": {
-    "@type": "CreativeWork",
-    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
-  },
-  "description": "Strategic Use of Generative AI - this is our hands-on course for general use and research-specific use of Generative AI.",
-  "keywords": "FAIR, OPEN, Generative AI, Writing, Ethics, Scripting",
-  "name": "Strategic Use of Generative AI",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "educationalLevel": "beginner",
-  "competencyRequired": "none",
-  "teaches": [
-    "Providing a background of the evolution of generative AI models",
-    "Providing an overview of the features and capabilities of genAI",
-    "Analysing prompt engineering techniques for different purposes",
-    "Exploring several applications of genAI in academic research (afternoon session)", 
-    "Providing hands-on experience with using different genAI tools for work and research purposes",
-    "Critically evaluating the AI generated outcomes"
-  ],
-  "audience": "researchers",
-  "inLanguage": "en-US",
-  "learningResourceType": [
-    "tutorial"
-  ],
-  "author": [
-    {
-      "@type": "Person",
-      "name": "Bruna Piereck"
-    },
-    {
-      "@type": "Person",
-      "name": "Alexander Botzki"
-    }
-  ],
-  "contributor": [
-    {
-      "@type": "Person",
-      "name": "Christof De Bo"
-    }
-  ]
-}
-```
-
-
 <section>
 
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
@@ -116,7 +68,7 @@ Example image to ilustrate the front page of the material. This image was design
 
 Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context, how to generate high-quality content for research papers, and grant applications.
 
-The **presentations** which goes alongside this material can be found [in the Lesson overview: Slides](https://drive.google.com/drive/folders/1F6KW94prIIrB-dpbSJYvxbcXxqBZFfeS?usp=drive_link) .
+The **presentations** which goes alongside this material can be found in the Lesson overview under Supporting Materials.
 
 ## Proposed Schedule
 
@@ -179,9 +131,9 @@ Schedule day 1:
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions](https://github.com/vibbits/introduction-to-generative-ai)
-> 2. [Slides morning](https://docs.google.com/presentation/d/1zp-BRONJo-glWBHddJOUuNz8g2NvCLo92lKGnzfy_SI/edit?usp=sharing)
-> 3. [Slides afternoon](https://docs.google.com/presentation/d/1JqhCPUzYKDozP9xKrhSmgtew5FsKz8KW/edit?usp=sharing&ouid=102044173704117471327&rtpof=true&sd=true)  
+> 1. [Exercises and solutions](https://github.com/vib-tcp/introduction-to-generative-ai/tree/main/exercises)
+> 2. [Slides morning](https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/strategic_use_of_GenAI_intro_2025_v2.2.pdf)
+> 3. [Slides afternoon](https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/strategic_use_of_GenAI_Research_2025_V2.2.pptx.pdf)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -259,4 +211,51 @@ The goal of VIB Technology Training is to up-skill life scientists to excel in t
 Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[orcid(Bruna Piereck)](https://orcid.org/0000-0001-5958-0669)
 
 Technical Editors: Alexander Botzki
+
+```json   @JSONLD
+{
+  "@context": "https://schema.org/",
+  "@type": "LearningResource",
+  "@id": "https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+  },
+  "description": "Strategic Use of Generative AI - this is our hands-on course for general use and research-specific use of Generative AI.",
+  "keywords": "FAIR, OPEN, Generative AI, Writing, Ethics, Scripting",
+  "name": "Strategic Use of Generative AI",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "educationalLevel": "beginner",
+  "competencyRequired": "none",
+  "teaches": [
+    "Providing a background of the evolution of generative AI models",
+    "Providing an overview of the features and capabilities of genAI",
+    "Analysing prompt engineering techniques for different purposes",
+    "Exploring several applications of genAI in academic research (afternoon session)", 
+    "Providing hands-on experience with using different genAI tools for work and research purposes",
+    "Critically evaluating the AI generated outcomes"
+  ],
+  "audience": "researchers",
+  "inLanguage": "en-US",
+  "learningResourceType": [
+    "tutorial"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Bruna Piereck"
+    },
+    {
+      "@type": "Person",
+      "name": "Alexander Botzki"
+    }
+  ],
+  "contributor": [
+    {
+      "@type": "Person",
+      "name": "Christof De Bo"
+    }
+  ]
+}
+```
 
