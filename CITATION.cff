@@ -21,7 +21,7 @@ contact:
 title: "Introduction to Strategic use of Generative AI in Research"
 version: v1.0.0
 doi: ~
-date-released: 2026-03-23
+date-released: 2026-03-27
 keywords:
 - Generative AI
 - training material
@@ -32,4 +32,4 @@ abstract: "Hands-on training material for the Introduction to Strategic Use of G
 identifiers:
 - type: url
   value: https://github.com/vib-training-conferences/introduction-to-generative-ai/
-  version: v2026.03.23
+  version: v2026.03.27
