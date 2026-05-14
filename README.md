@@ -141,7 +141,7 @@ Schedule day 1:
 >
 > <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
 >
-> <i class="fa fa-anchor"></i> **PURL**: NA (linked with Zenodo) 
+> <i class="fa fa-anchor"></i> **PURL**: [DOI 10.5281/zenodo.18060252](https://doi.org/10.5281/zenodo.18060252)
 
 
 # Authors and Contributors
@@ -160,7 +160,7 @@ Contributors
 
 Please cite as:
 
-  1. to be added once we have released the first version
+  1. Botzki, A., Piereck Moura, B., & Heyse, J. (2026, April 3). Introduction to Generative AI. Zenodo. https://doi.org/10.5281/zenodo.19402552
 
 # Chapters List
 
