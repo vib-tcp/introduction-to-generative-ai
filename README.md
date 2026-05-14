@@ -88,11 +88,10 @@ Schedule day 1:
 - 13:45 - 15:15 - session Generative AI for Writing
    - Conducting a literature review
    - Finding research gaps
-   - Writing an article (storytelling, etc.)
-   - Presenting the outcome
+   - Writing an article and where GenAI tools can assist
+   - Graphics with NotebookLM and Napkin.AI
 - 15:15 - 15:30 - break
-- 15:30 - 17:00 - session Generative AI for Scripting
-   - Doing quantitative research
+- 15:30 - 17:00 - session Generative AI Agents for Writing
 
 </section>
 
@@ -132,8 +131,8 @@ Schedule day 1:
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Exercises and solutions](https://github.com/vib-tcp/introduction-to-generative-ai/tree/main/exercises)
-> 2. [Slides morning](https://docs.google.com/presentation/d/1BIq0r_EngIT8mljIJ2fxKQAqiK95yfijvJKgkTLZdPQ/edit?usp=sharing)
-> 4. [Slides afternoon](https://docs.google.com/presentation/d/1AVe_q0V3bPlumwFAM7JcRRluImY5gb0N/edit?usp=sharing&ouid=102044173704117471327&rtpof=true&sd=true) 
+> 2. [Slides morning](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research/blob/main/presentations/strategic_use_of_GenAI_intro_2026_v3.2.pdf)
+> 4. [Slides afternoon](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research/blob/main/presentations/strategic_use_of_GenAI_Research_2026_V2.8.pdf) 
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
