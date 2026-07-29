@@ -47,7 +47,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 -->
 
-# Introduction to Generative AI
+#  Application of Generative AI for Scholarly work
 
 Lesson overview
 ----------------
@@ -158,6 +158,8 @@ Lesson overview
 >
 >
 
+#  Workshop and Material organization
+
 <section>
 
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
@@ -169,7 +171,9 @@ This is the @edition edition of this workshop, jointly organised by VIB and ELIX
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/main/README.md)
 
+
 </section>
+
 
 # References
 
