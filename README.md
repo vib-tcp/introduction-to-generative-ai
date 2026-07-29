@@ -52,7 +52,6 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 Lesson overview
 ----------------
 
->
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
 >
@@ -120,14 +119,15 @@ Lesson overview
 >>   - Graphics with NotebookLM and Napkin.AI
 >>- 15:15 - 15:30 - break
 >>- 15:30 - 17:00 - session Generative AI Agents for Writing
->> <i class="fa fa-life-ring"></i> **Acknowledgement**:
->>
->> * [ELIXIR Belgium](https://www.elixir-belgium.org/)
->> * [VIB Technologies](https://www.vib.be/)
->>
->> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
->>
->> <i class="fa fa-anchor"></i> **PURL**: [DOI 10.5281/zenodo.18060252](https://doi.org/10.5281/zenodo.18060252)
+>
+> <i class="fa fa-life-ring"></i> **Acknowledgement**:
+>
+> * [ELIXIR Belgium](https://www.elixir-belgium.org/)
+> * [VIB Technologies](https://www.vib.be/)
+>
+> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
+>
+> <i class="fa fa-anchor"></i> **PURL**: [DOI 10.5281/zenodo.18060252](https://doi.org/10.5281/zenodo.18060252)
 >
 >
 > # Authors and Contributors
