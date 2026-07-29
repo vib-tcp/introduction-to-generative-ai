@@ -52,38 +52,46 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 Lesson overview
 ----------------
 
+>
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers
+>
+> <i class="fa fa-user"></i> **Target Audience:** Researchers and Research staff
+>
 >
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
-> <i class="fa fa-arrow-left"></i> **Prerequisites**  
-> To be able to follow this course, learners should have knowledge in:
-> 
-> 1. No prior knowledge of Machine Learning or coding expertise is required
-> 2. Basic knowledge of R could be beneficial
-> 3. Being comfortable working with the web browser  
 >
-> <i class="fa fa-bookmark"></i> **Description**  Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context,  how to generate high-quality content for research papers, and grant applications.
+> <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > 
-> The **presentations** which goes alongside this material can be found in the Lesson overview under Supporting Materials.
+> No prior knowledge of Machine Learning or coding expertise is required
+>
+>
+> <i class="fa fa-bookmark"></i> **Description**  
+> 
+> Generative AI technologies are quickly becoming an essential part of the academic research toolkit, supporting tasks to create, analyze, and structure information. This training provides a foundation in the core principles of generative AI, their capabilities and limitations, and explores how these systems can be applied responsibly in scholarly work.
+>
+> During this training, you will explore different AI tools in supporting tasks from literature reviews to content drafting, summarization, and visualization. We will also introduce how you can leverage AI agents to execute actions with predefined context and instructions. You will learn how to design effective prompts to generate high-quality outputs, and critically assess the reliability of AI-generated content. We will also address ethical considerations, including authorship, ownership, and copyright, making sure you can leverage generative AI tools to improve your productivity while maintaining academic integrity.
+>
+> 
+> The **presentations** which goes alongside this material can be found [here](https://docs.google.com/presentation/d/1HcoNIQkAw8q4BHb_721MZAZAQCBp9ZJZ/edit?usp=sharing&ouid=102044173704117471327&rtpof=true&sd=true), version of 2026 04 03.
+>
 >
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Providing a background of the evolution of generative AI models
-> 2. Providing an overview of the features and capabilities of genAI
-> 3. Analysing prompt engineering techniques for different purposes
-> 4. Exploring several applications of genAI in academic research (afternoon session) 
-> 5. Providing hands-on experience with using different genAI tools for work and research purposes
-> 6. Critically evaluating the AI generated outcomes
+> 1. Explain the core principles of generative AI and their relevance to academic research.
+> 2. Identify the features, capabilities, and limitations of various generative AI tools used in research workflows.
+> 3. Apply prompt engineering techniques to generate relevant outputs for scholarly tasks.
+> 4. Use generative AI tools and agents to support specific academic tasks, including literature review, content drafting, and brainstorming.
+> 5. Evaluate the quality and reliability of AI-generated outputs in academic research.
+> 6. Discuss ethical implications, ownership and copyright of AI generated content.
+> 7. Plan an integrated research workflow using generative AI tools.
 >
->> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 360 minutes
+> <i class="fa fa-hourglass"></i> **Time estimation**: 8h (1 day)
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the Chapters overview section Getting ready.
+> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the Chapters [Get Ready](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md).
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
@@ -94,60 +102,61 @@ Lesson overview
 >
 >Schedule day 2026 04 03:
 >
->- 9:30 - 11:00 - session Introduction to Generative AI
->   - Brief historical background: from first AI to generative AI
->   - Mapping generative AI tools
->   - Focus on Large Language Models (LLMs)
->- 11:00 - 11:15 - break
->- 11:15 - 12:45 - session Introduction to Generative AI
->   - Tools for genAI (CoPilot, Perplexity and other competitors)
->   - Prompt engineering
->   - Ethical considerations
->   - Ownership, copyright and authenticity
->- 12:45 - 13:45 - lunch
->- 13:45 - 15:15 - session Generative AI for Writing
->   - Conducting a literature review
->   - Finding research gaps
->   - Writing an article and where GenAI tools can assist
->   - Graphics with NotebookLM and Napkin.AI
->- 15:15 - 15:30 - break
->- 15:30 - 17:00 - session Generative AI Agents for Writing
-> <i class="fa fa-life-ring"></i> **Acknowledgement**:
+>> - 9:30 - 11:00 - session Introduction to Generative AI
+>>   - Brief historical background: from first AI to generative AI
+>>   - Mapping generative AI tools
+>>   - Focus on Large Language Models (LLMs)
+>> - 11:00 - 11:15 - break
+>> - 11:15 - 12:45 - session Introduction to Generative AI
+>>   - Tools for genAI (CoPilot, Perplexity and other competitors)
+>>   - Prompt engineering
+>>   - Ethical considerations
+>>   - Ownership, copyright and authenticity
+>>- 12:45 - 13:45 - lunch
+>>- 13:45 - 15:15 - session Generative AI for Writing
+>>   - Conducting a literature review
+>>   - Finding research gaps
+>>   - Writing an article and where GenAI tools can assist
+>>   - Graphics with NotebookLM and Napkin.AI
+>>- 15:15 - 15:30 - break
+>>- 15:30 - 17:00 - session Generative AI Agents for Writing
+>> <i class="fa fa-life-ring"></i> **Acknowledgement**:
+>>
+>> * [ELIXIR Belgium](https://www.elixir-belgium.org/)
+>> * [VIB Technologies](https://www.vib.be/)
+>>
+>> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
+>>
+>> <i class="fa fa-anchor"></i> **PURL**: [DOI 10.5281/zenodo.18060252](https://doi.org/10.5281/zenodo.18060252)
 >
-> * [ELIXIR Belgium](https://www.elixir-belgium.org/)
-> * [VIB Technologies](https://www.vib.be/)
 >
-> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
+> # Authors and Contributors
 >
-> <i class="fa fa-anchor"></i> **PURL**: [DOI 10.5281/zenodo.18060252](https://doi.org/10.5281/zenodo.18060252)
-
-
-# Authors and Contributors
-
-Authors
-
-- [Bruna Piereck](@[orcid](https://orcid.org/0000-0001-5958-0669)
-- [Alexander Botzki](@[orcid](https://orcid.org/0000-0001-6691-4233)
-- [Jolan Heyse](@[orcid](https://orcid.org/0000-0003-2179-0366)
-
-Contributors
-
-- we welcome contributors for these materials
-
-## Citing this lesson
-
-Please cite as:
-
-  1. Botzki, A., Piereck Moura, B., & Heyse, J. (2026, April 3). Introduction to Generative AI. Zenodo. https://doi.org/10.5281/zenodo.19402552
-
-# Chapters List
-
-| Chapter | Title                                                   |
-| :---- | :------------------------------------------------         |
-| 0     | [Get ready for the course, installation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md) |
-| 1     | [Strategic use of generative AI for all](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter01.md)                                             |
-| 2     | [Strategic use of generative AI for research](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter02.md)                                             |
-
+> Authors
+>
+>- [Bruna Piereck](@[orcid](https://orcid.org/0000-0001-5958-0669)
+>- [Alexander Botzki](@[orcid](https://orcid.org/0000-0001-6691-4233)
+>- [Jolan Heyse](@[orcid](https://orcid.org/0000-0003-2179-0366)
+>
+> Contributors
+>
+>- we welcome contributors for these materials
+>
+> ## Citing this lesson
+>
+>Please cite as:
+>
+>  1. Botzki, A., Piereck Moura, B., & Heyse, J. (2026, April 3). Introduction to Generative AI. Zenodo. https://doi.org/10.5281/zenodo.19402552
+>
+> # Chapters List
+>
+> | Chapter | Title                                                   |
+> | :---- | :------------------------------------------------         |
+>| 0     | [Get ready for the course, installation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md) |
+> | 1     | [Strategic use of generative AI for all](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/ Chapters/Chapter01.md)                                             |
+> | 2     | [Strategic use of generative AI for research](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter02.md)                                             |
+>
+>
 
 <section>
 
