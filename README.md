@@ -2,7 +2,7 @@
 
 author:   Alexander Botzki, Bruna Piereck, Jolan Heyse
 email:    training@vib.de
-version:  2.2.0
+version:  1.0
 language: en
 narrator: UK English Female
 
@@ -24,7 +24,7 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-tutor:    Strategic use of Generative AI
+tutor:    SApplication of Generative AI for Scholarly work
 edition:  1st 
 
 @JSONLD
@@ -49,53 +49,8 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 # Introduction to Generative AI
 
-<section>
-
-Hello and welcome to our @tutor workshop! We are very happy to have you here.
-
-This is the @edition edition of this workshop, jointly organised by VIB and ELIXIR.
-
-<img src="./images/cover-genAI.png" width="650" align="center"/>
-
-Example image to ilustrate the front page of the material. This image was designed by Bruna Piereck.
-
-> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
-> It is a distributed way of creating and sharing educational content hosted on github.
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/main/README.md)
-
-## General context
-
-Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context, how to generate high-quality content for research papers, and grant applications.
-
-The **presentations** which goes alongside this material can be found in the Lesson overview under Supporting Materials.
-
-## Proposed Schedule
-
-Schedule day 1:
-
-- 9:30 - 11:00 - session Introduction to Generative AI
-   - Brief historical background: from first AI to generative AI
-   - Mapping generative AI tools
-   - Focus on Large Language Models (LLMs)
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session Introduction to Generative AI
-   - Tools for genAI (CoPilot, Perplexity and other competitors)
-   - Prompt engineering
-   - Ethical considerations
-   - Ownership, copyright and authenticity
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session Generative AI for Writing
-   - Conducting a literature review
-   - Finding research gaps
-   - Writing an article and where GenAI tools can assist
-   - Graphics with NotebookLM and Napkin.AI
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session Generative AI Agents for Writing
-
-</section>
-
-# Lesson overview
+Lesson overview
+----------------
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
@@ -112,6 +67,8 @@ Schedule day 1:
 >
 > <i class="fa fa-bookmark"></i> **Description**  Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context,  how to generate high-quality content for research papers, and grant applications.
 > 
+> The **presentations** which goes alongside this material can be found in the Lesson overview under Supporting Materials.
+>
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
@@ -133,7 +90,28 @@ Schedule day 1:
 > 1. [Exercises and solutions](https://github.com/vib-tcp/introduction-to-generative-ai/tree/main/exercises)
 > 2. [Slides morning](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research/blob/main/presentations/strategic_use_of_GenAI_intro_2026_v3.2.pdf)
 > 4. [Slides afternoon](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research/blob/main/presentations/strategic_use_of_GenAI_Research_2026_V2.8.pdf) 
-> 
+> ## Proposed Schedule
+>
+>Schedule day 2026 04 03:
+>
+>- 9:30 - 11:00 - session Introduction to Generative AI
+>   - Brief historical background: from first AI to generative AI
+>   - Mapping generative AI tools
+>   - Focus on Large Language Models (LLMs)
+>- 11:00 - 11:15 - break
+>- 11:15 - 12:45 - session Introduction to Generative AI
+>   - Tools for genAI (CoPilot, Perplexity and other competitors)
+>   - Prompt engineering
+>   - Ethical considerations
+>   - Ownership, copyright and authenticity
+>- 12:45 - 13:45 - lunch
+>- 13:45 - 15:15 - session Generative AI for Writing
+>   - Conducting a literature review
+>   - Finding research gaps
+>   - Writing an article and where GenAI tools can assist
+>   - Graphics with NotebookLM and Napkin.AI
+>- 15:15 - 15:30 - break
+>- 15:30 - 17:00 - session Generative AI Agents for Writing
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
 > * [ELIXIR Belgium](https://www.elixir-belgium.org/)
@@ -170,6 +148,19 @@ Please cite as:
 | 1     | [Strategic use of generative AI for all](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter01.md)                                             |
 | 2     | [Strategic use of generative AI for research](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter02.md)                                             |
 
+
+<section>
+
+Hello and welcome to our @tutor workshop! We are very happy to have you here.
+
+This is the @edition edition of this workshop, jointly organised by VIB and ELIXIR.
+
+> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
+> It is a distributed way of creating and sharing educational content hosted on github.
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/main/README.md)
+
+</section>
 
 # References
 
