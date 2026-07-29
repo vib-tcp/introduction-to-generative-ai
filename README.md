@@ -154,8 +154,7 @@ Lesson overview
 > | :---- | :------------------------------------------------         |
 >| 0     | [Get ready for the course, installation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md) |
 > | 1     | [Strategic use of generative AI for all](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/ Chapters/Chapter01.md)                                             |
-> | 2     | [Strategic use of generative AI for research](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter02.md)                                             |
->
+> | 2     | [Strategic use of generative AI for research](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter02.md)                                             |>
 
 #  Workshop and Material organization
 
@@ -165,8 +164,7 @@ Lesson overview
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/main/README.md)
 
-References
-------------
+# References
 
 Here are some great tips for learning and to get inspired for your own use:
 
