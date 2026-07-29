@@ -96,8 +96,8 @@ Lesson overview
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Exercises and solutions](https://github.com/vib-tcp/introduction-to-generative-ai/tree/main/exercises)
-> 2. [Slides morning](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research/blob/main/presentations/strategic_use_of_GenAI_intro_2026_v3.2.pdf)
-> 4. [Slides afternoon](https://github.com/vib-training-conferences/introduction-to-generative-ai-for-research/blob/main/presentations/strategic_use_of_GenAI_Research_2026_V2.8.pdf) 
+> 2. [Slides](./presentations)
+>
 > ## Proposed Schedule
 >
 >Schedule day 2026 04 03:
