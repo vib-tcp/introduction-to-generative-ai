@@ -134,9 +134,11 @@ Lesson overview
 >
 > Authors
 >
->- [Bruna Piereck](@[orcid](https://orcid.org/0000-0001-5958-0669)
->- [Alexander Botzki](@[orcid](https://orcid.org/0000-0001-6691-4233)
->- [Jolan Heyse](@[orcid](https://orcid.org/0000-0003-2179-0366)
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0001-5958-0669) Bruna Piereck]
+> 
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0001-6691-4233) Alexander Botzki
+>
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0003-2179-0366) Jolan Heyse
 >
 > Contributors
 >
