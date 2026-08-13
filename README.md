@@ -134,15 +134,15 @@ Lesson overview
 >
 > Authors
 >
-> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0001-5958-0669) Bruna Piereck]
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/gen_AI_for_Scholarly_work/refs/heads/main/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0001-5958-0669) Bruna Piereck]
 > 
-> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0001-6691-4233) Alexander Botzki
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/gen_AI_for_Scholarly_work/refs/heads/main/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0001-6691-4233) Alexander Botzki
 >
-> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0003-2179-0366) Jolan Heyse
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/gen_AI_for_Scholarly_work/refs/heads/main/images/ORCID-iD_icon_vector.svg" width="20"/>](https://orcid.org/0000-0003-2179-0366) Jolan Heyse
 >
 > Contributors
 >
->- we welcome contributors for these materials
+> **We welcome contributors for these materials**
 >
 > ## Citing this lesson
 >
@@ -154,7 +154,7 @@ Lesson overview
 >
 > | Chapter | Title                                                   |
 > | :---- | :------------------------------------------------         |
->| 0     | [Get ready for the course, installation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md) |
+> | 0     | [Get ready for the course, installation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md) |
 > | 1     | [Strategic use of generative AI for all](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/ Chapters/Chapter01.md)                                             |
 > | 2     | [Strategic use of generative AI for research](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter02.md)                                             |>
 
