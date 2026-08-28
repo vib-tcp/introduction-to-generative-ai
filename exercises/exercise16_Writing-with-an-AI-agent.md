@@ -20,6 +20,10 @@ Start the Intro planner skill (ea-intro-planner)
 
 ## **Step 3: 
 Control the flow of the tool along its way.
+
+```
+Find the PDFs for the analysis at <path_to_file>
+```
  
 
 ### Reference
