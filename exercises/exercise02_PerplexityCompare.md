@@ -5,7 +5,11 @@
 - Open another tab and surf to https://asta.allen.ai 
 
 Question to address:
+
 Use this question: How to make training events and material more findable, accessible, interoperable and re-usable?
+
+
+Prompt:
 
 List practical recipes to make training events and material more findable, accessible, interoperable and re-usable.
 
